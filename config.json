@@ -1,0 +1,34 @@
+{
+    "scalper": {
+        "chromedriver_location": "",
+        "delivery_sort_method": "",
+        "dry_run": true,
+        "ssl_verify": true
+    },
+    "ifttt": {
+        "key": "",
+        "webhook_event_names": []
+    },
+    "payment_info": {
+        "card_number": "",
+        "cardholder_name": "",
+        "expiry_month": "",
+        "expiry_year": "",
+        "security_code": ""
+    },
+    "product_infos": [
+        {
+            "name": "",
+            "pid": "",
+            "quantity": 1,
+            "offer_code": ""
+        }
+    ],
+    "user_info": {
+        "email": "",
+        "password": "",
+        "post_code": "",
+        "latitude": 0,
+        "longitude": 0
+    }
+}
